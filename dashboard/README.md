@@ -7,6 +7,8 @@
    i. Platform versions for app development and testing
 
    ii. Application overview
+   
+   iii. Work In Progress
 
 i. Platform versions for app development:
 
@@ -32,3 +34,7 @@ ii. Application overview:
     The application uses kafka streams for stream processing the topics that registration module will produce.
 
     The SSE endpoint will be dashboard/stream/groups.
+
+iii. Woork In Progress
+    a. angular component for the frontend
+    b. CDC module for feeding the initial kafka topic
